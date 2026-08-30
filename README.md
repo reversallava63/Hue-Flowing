@@ -15,14 +15,16 @@ To install this app, you'll need to:
 
 # Roadmap
 
-- [x] Full world rendering – 197×99 tile map, decor, animated foliage, entities
+- [x] Full world rendering – 197×99 tile map, decor, foliage, entities
 - [x] Persistent world‑space canvas/paint system
 - [x] Player physics: gravity, acceleration, wall‑slide, wall‑jump, double‑jump, respawn
 - [x] Player animations: idle, run, jump, slide, rotation
 - [x] Jump icon overlay showing available/used jumps
-- [x] Soft mask borders for a polished canvas effect
+- [x] Shaders (affects canvas painting, tiles, decor, etc.)
 - [x] Memory‑optimised chunked world mask and line‑buffer rendering
-
+- [ ] Foliage animations
+- [ ] Better shaders
+      
 ## How to use the app
 
 Controls:
