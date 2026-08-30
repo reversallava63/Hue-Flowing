@@ -10,7 +10,7 @@ The game features a unique painting mechanic where the world is hidden behind a 
 
 To install this app, you'll need to:
 
-1. Download the latest `hue.nwa` file from the [Releases](https://codeberg.org/Yaya-Cout/nofrendo/releases) page
+1. Download the latest `hue.nwa` file from the [Releases](https://github.com/reversallava63/Hue-Flowing/releases/) page
 2. Head to [my.numworks.com/apps](https://my.numworks.com/apps) to send the `nwa` file on your calculator.
 
 # Roadmap
