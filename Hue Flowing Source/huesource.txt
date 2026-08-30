@@ -1,0 +1,332 @@
+.:
+total 32
+drwxrwxrwx 1 reversallava63 reversallava63  4096 Aug 28 19:21 .
+drwxrwxrwx 1 reversallava63 reversallava63  4096 Aug 28 19:19 ..
+-rwxrwxrwx 1 reversallava63 reversallava63 32339 Aug 21 13:02 Hue Flowing.py
+drwxrwxrwx 1 reversallava63 reversallava63  4096 Aug 23 12:32 data
+-rwxrwxrwx 1 reversallava63 reversallava63     0 Aug 28 19:21 huesource.txt
+
+./data:
+total 31280
+drwxrwxrwx 1 reversallava63 reversallava63     4096 Aug 23 12:32 .
+drwxrwxrwx 1 reversallava63 reversallava63     4096 Aug 28 19:21 ..
+drwxrwxrwx 1 reversallava63 reversallava63     4096 Aug 23 12:32 images
+drwxrwxrwx 1 reversallava63 reversallava63     4096 Aug 23 12:32 levels
+-rwxrwxrwx 1 reversallava63 reversallava63 32027806 Aug 21 13:02 music.wav
+drwxrwxrwx 1 reversallava63 reversallava63     4096 Aug 23 12:32 scripts
+drwxrwxrwx 1 reversallava63 reversallava63     4096 Aug 23 12:32 sfx
+drwxrwxrwx 1 reversallava63 reversallava63     4096 Aug 23 12:32 shaders
+
+./data/images:
+total 96
+drwxrwxrwx 1 reversallava63 reversallava63  4096 Aug 23 12:32 .
+drwxrwxrwx 1 reversallava63 reversallava63  4096 Aug 23 12:32 ..
+drwxrwxrwx 1 reversallava63 reversallava63  4096 Aug 28 19:19 animations
+-rwxrwxrwx 1 reversallava63 reversallava63 31650 Aug 23 12:16 data.images.sketchandsketch_2.zip
+drwxrwxrwx 1 reversallava63 reversallava63  4096 Aug 23 12:32 grass
+-rwxrwxrwx 1 reversallava63 reversallava63  1048 Aug 21 13:02 jump_anim.aseprite
+-rwxrwxrwx 1 reversallava63 reversallava63  3394 Aug 21 13:02 jump_upgrade.aseprite
+-rwxrwxrwx 1 reversallava63 reversallava63   987 Aug 21 13:02 land_anim.aseprite
+drwxrwxrwx 1 reversallava63 reversallava63  4096 Aug 23 18:59 misc
+drwxrwxrwx 1 reversallava63 reversallava63  4096 Aug 23 12:32 particles
+-rwxrwxrwx 1 reversallava63 reversallava63  2987 Aug 21 13:02 pillar.aseprite
+-rwxrwxrwx 1 reversallava63 reversallava63  1050 Aug 21 13:02 player_idle.aseprite
+-rwxrwxrwx 1 reversallava63 reversallava63  1646 Aug 21 13:02 player_running.aseprite
+-rwxrwxrwx 1 reversallava63 reversallava63  9713 Aug 21 13:02 sketch.png
+-rwxrwxrwx 1 reversallava63 reversallava63 23806 Aug 21 13:02 sketch_2.png
+drwxrwxrwx 1 reversallava63 reversallava63  4096 Aug 23 12:32 spritesheets
+-rwxrwxrwx 1 reversallava63 reversallava63   921 Aug 21 13:02 turn_anim.aseprite
+
+./data/images/animations:
+total 0
+drwxrwxrwx 1 reversallava63 reversallava63 4096 Aug 28 19:19 .
+drwxrwxrwx 1 reversallava63 reversallava63 4096 Aug 23 12:32 ..
+drwxrwxrwx 1 reversallava63 reversallava63 4096 Aug 23 12:32 jump_upgrade_idle
+drwxrwxrwx 1 reversallava63 reversallava63 4096 Aug 23 12:32 jumpanim2_idle
+drwxrwxrwx 1 reversallava63 reversallava63 4096 Aug 23 12:32 jumpanim_idle
+drwxrwxrwx 1 reversallava63 reversallava63 4096 Aug 23 12:32 landanim_idle
+drwxrwxrwx 1 reversallava63 reversallava63 4096 Aug 23 12:32 pillar_idle
+drwxrwxrwx 1 reversallava63 reversallava63 4096 Aug 23 12:32 player_idle
+drwxrwxrwx 1 reversallava63 reversallava63 4096 Aug 23 12:32 player_jump
+drwxrwxrwx 1 reversallava63 reversallava63 4096 Aug 23 12:32 player_run
+drwxrwxrwx 1 reversallava63 reversallava63 4096 Aug 23 12:32 player_slide
+drwxrwxrwx 1 reversallava63 reversallava63 4096 Aug 23 12:32 turnanim_idle
+
+./data/images/animations/jump_upgrade_idle:
+total 8
+drwxrwxrwx 1 reversallava63 reversallava63 4096 Aug 23 12:32 .
+drwxrwxrwx 1 reversallava63 reversallava63 4096 Aug 28 19:19 ..
+-rwxrwxrwx 1 reversallava63 reversallava63  162 Aug 21 13:02 config(jump_upgrade_idle).json
+-rwxrwxrwx 1 reversallava63 reversallava63 7678 Aug 23 12:18 data.images.animations.jump_upgrade_idle.zip
+-rwxrwxrwx 1 reversallava63 reversallava63  246 Aug 21 13:02 img_0.png
+-rwxrwxrwx 1 reversallava63 reversallava63  274 Aug 21 13:02 img_1.png
+-rwxrwxrwx 1 reversallava63 reversallava63  295 Aug 21 13:02 img_10.png
+-rwxrwxrwx 1 reversallava63 reversallava63  290 Aug 21 13:02 img_11.png
+-rwxrwxrwx 1 reversallava63 reversallava63  276 Aug 21 13:02 img_12.png
+-rwxrwxrwx 1 reversallava63 reversallava63  293 Aug 21 13:02 img_13.png
+-rwxrwxrwx 1 reversallava63 reversallava63  256 Aug 21 13:02 img_14.png
+-rwxrwxrwx 1 reversallava63 reversallava63  250 Aug 21 13:02 img_15.png
+-rwxrwxrwx 1 reversallava63 reversallava63  244 Aug 21 13:02 img_16.png
+-rwxrwxrwx 1 reversallava63 reversallava63  275 Aug 21 13:02 img_2.png
+-rwxrwxrwx 1 reversallava63 reversallava63  293 Aug 21 13:02 img_3.png
+-rwxrwxrwx 1 reversallava63 reversallava63  299 Aug 21 13:02 img_4.png
+-rwxrwxrwx 1 reversallava63 reversallava63  306 Aug 21 13:02 img_5.png
+-rwxrwxrwx 1 reversallava63 reversallava63  291 Aug 21 13:02 img_6.png
+-rwxrwxrwx 1 reversallava63 reversallava63  309 Aug 21 13:02 img_7.png
+-rwxrwxrwx 1 reversallava63 reversallava63  295 Aug 21 13:02 img_8.png
+-rwxrwxrwx 1 reversallava63 reversallava63  284 Aug 21 13:02 img_9.png
+
+./data/images/animations/jumpanim2_idle:
+total 4
+drwxrwxrwx 1 reversallava63 reversallava63 4096 Aug 23 12:32 .
+drwxrwxrwx 1 reversallava63 reversallava63 4096 Aug 28 19:19 ..
+-rwxrwxrwx 1 reversallava63 reversallava63  131 Aug 21 13:02 config(jumpanim2_idle).json
+-rwxrwxrwx 1 reversallava63 reversallava63 2113 Aug 23 12:18 data.images.animations.jumpanim2_idle.zip
+-rwxrwxrwx 1 reversallava63 reversallava63  152 Aug 21 13:02 img_0.png
+-rwxrwxrwx 1 reversallava63 reversallava63  180 Aug 21 13:02 img_1.png
+-rwxrwxrwx 1 reversallava63 reversallava63  217 Aug 21 13:02 img_2.png
+-rwxrwxrwx 1 reversallava63 reversallava63  230 Aug 21 13:02 img_3.png
+-rwxrwxrwx 1 reversallava63 reversallava63  195 Aug 21 13:02 img_4.png
+-rwxrwxrwx 1 reversallava63 reversallava63  162 Aug 21 13:02 img_5.png
+
+./data/images/animations/jumpanim_idle:
+total 4
+drwxrwxrwx 1 reversallava63 reversallava63 4096 Aug 23 12:32 .
+drwxrwxrwx 1 reversallava63 reversallava63 4096 Aug 28 19:19 ..
+-rwxrwxrwx 1 reversallava63 reversallava63  132 Aug 21 13:02 config(jumpanim_idle).json
+-rwxrwxrwx 1 reversallava63 reversallava63 1850 Aug 23 12:18 data.images.animations.jumpanim_idle.zip
+-rwxrwxrwx 1 reversallava63 reversallava63  114 Aug 21 13:02 img_0.png
+-rwxrwxrwx 1 reversallava63 reversallava63  136 Aug 21 13:02 img_1.png
+-rwxrwxrwx 1 reversallava63 reversallava63  160 Aug 21 13:02 img_2.png
+-rwxrwxrwx 1 reversallava63 reversallava63  166 Aug 21 13:02 img_3.png
+-rwxrwxrwx 1 reversallava63 reversallava63  153 Aug 21 13:02 img_4.png
+-rwxrwxrwx 1 reversallava63 reversallava63  120 Aug 21 13:02 img_5.png
+
+./data/images/animations/landanim_idle:
+total 4
+drwxrwxrwx 1 reversallava63 reversallava63 4096 Aug 23 12:32 .
+drwxrwxrwx 1 reversallava63 reversallava63 4096 Aug 28 19:19 ..
+-rwxrwxrwx 1 reversallava63 reversallava63  132 Aug 21 13:02 config(landanim_idle).json
+-rwxrwxrwx 1 reversallava63 reversallava63 1766 Aug 23 12:18 data.images.animations.landamin_idle.zip
+-rwxrwxrwx 1 reversallava63 reversallava63  114 Aug 21 13:02 img_0.png
+-rwxrwxrwx 1 reversallava63 reversallava63  117 Aug 21 13:02 img_1.png
+-rwxrwxrwx 1 reversallava63 reversallava63  145 Aug 21 13:02 img_2.png
+-rwxrwxrwx 1 reversallava63 reversallava63  145 Aug 21 13:02 img_3.png
+-rwxrwxrwx 1 reversallava63 reversallava63  133 Aug 21 13:02 img_4.png
+-rwxrwxrwx 1 reversallava63 reversallava63  111 Aug 21 13:02 img_5.png
+
+./data/images/animations/pillar_idle:
+total 28
+drwxrwxrwx 1 reversallava63 reversallava63 4096 Aug 23 12:32 .
+drwxrwxrwx 1 reversallava63 reversallava63 4096 Aug 28 19:19 ..
+-rwxrwxrwx 1 reversallava63 reversallava63  126 Aug 21 13:02 config(pillar_idle).json
+-rwxrwxrwx 1 reversallava63 reversallava63 4429 Aug 23 12:17 data.images.animations.pillar_idle.zip
+-rwxrwxrwx 1 reversallava63 reversallava63  676 Aug 21 13:02 img_0.png
+-rwxrwxrwx 1 reversallava63 reversallava63  721 Aug 21 13:02 img_1.png
+-rwxrwxrwx 1 reversallava63 reversallava63  697 Aug 21 13:02 img_2.png
+-rwxrwxrwx 1 reversallava63 reversallava63  767 Aug 21 13:02 img_3.png
+-rwxrwxrwx 1 reversallava63 reversallava63  691 Aug 21 13:02 img_4.png
+
+./data/images/animations/player_idle:
+total 4
+drwxrwxrwx 1 reversallava63 reversallava63 4096 Aug 23 12:32 .
+drwxrwxrwx 1 reversallava63 reversallava63 4096 Aug 28 19:19 ..
+-rwxrwxrwx 1 reversallava63 reversallava63  124 Aug 21 13:02 config(player_idle).json
+-rwxrwxrwx 1 reversallava63 reversallava63 1649 Aug 23 12:17 data.images.animations.player_idle.zip
+-rwxrwxrwx 1 reversallava63 reversallava63  235 Aug 21 13:02 img_0.png
+-rwxrwxrwx 1 reversallava63 reversallava63  235 Aug 21 13:02 img_1.png
+-rwxrwxrwx 1 reversallava63 reversallava63  235 Aug 21 13:02 img_2.png
+-rwxrwxrwx 1 reversallava63 reversallava63  241 Aug 21 13:02 img_3.png
+
+./data/images/animations/player_jump:
+total 0
+drwxrwxrwx 1 reversallava63 reversallava63 4096 Aug 23 12:32 .
+drwxrwxrwx 1 reversallava63 reversallava63 4096 Aug 28 19:19 ..
+-rwxrwxrwx 1 reversallava63 reversallava63  114 Aug 21 13:02 config(player_jump).json
+-rwxrwxrwx 1 reversallava63 reversallava63  437 Aug 23 12:16 data.images.animations.player_jump.zip
+-rwxrwxrwx 1 reversallava63 reversallava63  246 Aug 21 13:02 img_0.png
+
+./data/images/animations/player_run:
+total 4
+drwxrwxrwx 1 reversallava63 reversallava63 4096 Aug 23 12:32 .
+drwxrwxrwx 1 reversallava63 reversallava63 4096 Aug 28 19:19 ..
+-rwxrwxrwx 1 reversallava63 reversallava63  135 Aug 21 13:02 config(player_run).json
+-rwxrwxrwx 1 reversallava63 reversallava63 3363 Aug 23 12:16 data.images.animations.player_run.zip
+-rwxrwxrwx 1 reversallava63 reversallava63  242 Aug 21 13:02 img_0.png
+-rwxrwxrwx 1 reversallava63 reversallava63  245 Aug 21 13:02 img_1.png
+-rwxrwxrwx 1 reversallava63 reversallava63  249 Aug 21 13:02 img_2.png
+-rwxrwxrwx 1 reversallava63 reversallava63  246 Aug 21 13:02 img_3.png
+-rwxrwxrwx 1 reversallava63 reversallava63  253 Aug 21 13:02 img_4.png
+-rwxrwxrwx 1 reversallava63 reversallava63  250 Aug 21 13:02 img_5.png
+-rwxrwxrwx 1 reversallava63 reversallava63  251 Aug 21 13:02 img_6.png
+-rwxrwxrwx 1 reversallava63 reversallava63  248 Aug 21 13:02 img_7.png
+
+./data/images/animations/player_slide:
+total 0
+drwxrwxrwx 1 reversallava63 reversallava63 4096 Aug 23 12:32 .
+drwxrwxrwx 1 reversallava63 reversallava63 4096 Aug 28 19:19 ..
+-rwxrwxrwx 1 reversallava63 reversallava63  114 Aug 21 13:02 config(player_slide).json
+-rwxrwxrwx 1 reversallava63 reversallava63  495 Aug 23 12:19 data.images.animations.player_slide.zip
+-rwxrwxrwx 1 reversallava63 reversallava63  306 Aug 21 13:02 img_0.png
+
+./data/images/animations/turnanim_idle:
+total 4
+drwxrwxrwx 1 reversallava63 reversallava63 4096 Aug 23 12:32 .
+drwxrwxrwx 1 reversallava63 reversallava63 4096 Aug 28 19:19 ..
+-rwxrwxrwx 1 reversallava63 reversallava63  132 Aug 21 13:02 config(turnanim_idle).json
+-rwxrwxrwx 1 reversallava63 reversallava63 1719 Aug 23 12:19 data.images.animations.turnanim_idle.zip
+-rwxrwxrwx 1 reversallava63 reversallava63  103 Aug 21 13:02 img_0.png
+-rwxrwxrwx 1 reversallava63 reversallava63  113 Aug 21 13:02 img_1.png
+-rwxrwxrwx 1 reversallava63 reversallava63  134 Aug 21 13:02 img_2.png
+-rwxrwxrwx 1 reversallava63 reversallava63  139 Aug 21 13:02 img_3.png
+-rwxrwxrwx 1 reversallava63 reversallava63  126 Aug 21 13:02 img_4.png
+-rwxrwxrwx 1 reversallava63 reversallava63  109 Aug 21 13:02 img_5.png
+
+./data/images/grass:
+total 4
+drwxrwxrwx 1 reversallava63 reversallava63 4096 Aug 23 12:32 .
+drwxrwxrwx 1 reversallava63 reversallava63 4096 Aug 23 12:32 ..
+-rwxrwxrwx 1 reversallava63 reversallava63 2425 Aug 23 12:19 data.images.grass.zip
+-rwxrwxrwx 1 reversallava63 reversallava63  145 Aug 21 13:02 grass_01.png
+-rwxrwxrwx 1 reversallava63 reversallava63  173 Aug 21 13:02 grass_02.png
+-rwxrwxrwx 1 reversallava63 reversallava63  190 Aug 21 13:02 grass_03.png
+-rwxrwxrwx 1 reversallava63 reversallava63  199 Aug 21 13:02 grass_04.png
+-rwxrwxrwx 1 reversallava63 reversallava63  217 Aug 21 13:02 grass_05.png
+-rwxrwxrwx 1 reversallava63 reversallava63  152 Aug 21 13:02 grass_06.png
+-rwxrwxrwx 1 reversallava63 reversallava63  177 Aug 21 13:02 grass_07.png
+
+./data/images/misc:
+total 7828
+drwxrwxrwx 1 reversallava63 reversallava63    4096 Aug 23 18:59 .
+drwxrwxrwx 1 reversallava63 reversallava63    4096 Aug 23 12:32 ..
+-rwxrwxrwx 1 reversallava63 reversallava63 3731054 Aug 21 13:02 canvas.png
+-rwxrwxrwx 1 reversallava63 reversallava63   51988 Aug 21 13:02 canvas.png~
+-rwxrwxrwx 1 reversallava63 reversallava63     560 Aug 23 18:58 convert.py
+-rwxrwxrwx 1 reversallava63 reversallava63 3931591 Aug 23 12:21 data.images.misc.zip
+-rwxrwxrwx 1 reversallava63 reversallava63   17519 Aug 21 13:02 end.png
+-rwxrwxrwx 1 reversallava63 reversallava63     796 Aug 21 13:02 end.png~
+-rwxrwxrwx 1 reversallava63 reversallava63     261 Aug 21 13:02 jump_icon.png
+-rwxrwxrwx 1 reversallava63 reversallava63  247207 Aug 21 13:02 noise.png
+-rwxrwxrwx 1 reversallava63 reversallava63   16717 Aug 23 19:37 noise_data.h
+-rwxrwxrwx 1 reversallava63 reversallava63     279 Aug 21 13:02 player_base_paint.png
+-rwxrwxrwx 1 reversallava63 reversallava63     464 Aug 21 13:02 tutorial.png
+
+./data/images/particles:
+total 0
+drwxrwxrwx 1 reversallava63 reversallava63 4096 Aug 23 12:32 .
+drwxrwxrwx 1 reversallava63 reversallava63 4096 Aug 23 12:32 ..
+drwxrwxrwx 1 reversallava63 reversallava63 4096 Aug 23 12:32 grass
+drwxrwxrwx 1 reversallava63 reversallava63 4096 Aug 23 12:32 p
+
+./data/images/particles/grass:
+total 4
+drwxrwxrwx 1 reversallava63 reversallava63 4096 Aug 23 12:32 .
+drwxrwxrwx 1 reversallava63 reversallava63 4096 Aug 23 12:32 ..
+-rwxrwxrwx 1 reversallava63 reversallava63  160 Aug 21 13:02 0.png
+-rwxrwxrwx 1 reversallava63 reversallava63  157 Aug 21 13:02 1.png
+-rwxrwxrwx 1 reversallava63 reversallava63  151 Aug 21 13:02 2.png
+-rwxrwxrwx 1 reversallava63 reversallava63  146 Aug 21 13:02 3.png
+-rwxrwxrwx 1 reversallava63 reversallava63  143 Aug 21 13:02 4.png
+-rwxrwxrwx 1 reversallava63 reversallava63  141 Aug 21 13:02 5.png
+-rwxrwxrwx 1 reversallava63 reversallava63 1813 Aug 23 12:21 data.images.particles.grass.zip
+
+./data/images/particles/p:
+total 4
+drwxrwxrwx 1 reversallava63 reversallava63 4096 Aug 23 12:32 .
+drwxrwxrwx 1 reversallava63 reversallava63 4096 Aug 23 12:32 ..
+-rwxrwxrwx 1 reversallava63 reversallava63  187 Aug 21 13:02 0.png
+-rwxrwxrwx 1 reversallava63 reversallava63  190 Aug 21 13:02 1.png
+-rwxrwxrwx 1 reversallava63 reversallava63  184 Aug 21 13:02 2.png
+-rwxrwxrwx 1 reversallava63 reversallava63  167 Aug 21 13:02 3.png
+-rwxrwxrwx 1 reversallava63 reversallava63  168 Aug 21 13:02 4.png
+-rwxrwxrwx 1 reversallava63 reversallava63  160 Aug 21 13:02 5.png
+-rwxrwxrwx 1 reversallava63 reversallava63  145 Aug 21 13:02 6.png
+-rwxrwxrwx 1 reversallava63 reversallava63  142 Aug 21 13:02 7.png
+-rwxrwxrwx 1 reversallava63 reversallava63 2559 Aug 23 12:22 data.images.particles.p.zip
+
+./data/images/spritesheets:
+total 40
+drwxrwxrwx 1 reversallava63 reversallava63  4096 Aug 23 12:32 .
+drwxrwxrwx 1 reversallava63 reversallava63  4096 Aug 23 12:32 ..
+-rwxrwxrwx 1 reversallava63 reversallava63 15575 Aug 23 12:15 data.images.spritesheets.zip
+-rwxrwxrwx 1 reversallava63 reversallava63  2754 Aug 21 13:02 decor.png
+-rwxrwxrwx 1 reversallava63 reversallava63   957 Aug 21 13:02 entities.png
+-rwxrwxrwx 1 reversallava63 reversallava63  9439 Aug 21 13:02 foliage.png
+-rwxrwxrwx 1 reversallava63 reversallava63   105 Aug 21 13:02 tiles(spritesheets).json
+-rwxrwxrwx 1 reversallava63 reversallava63  1812 Aug 21 13:02 tiles.png
+
+./data/levels:
+total 676
+drwxrwxrwx 1 reversallava63 reversallava63   4096 Aug 23 12:32 .
+drwxrwxrwx 1 reversallava63 reversallava63   4096 Aug 23 12:32 ..
+-rwxrwxrwx 1 reversallava63 reversallava63 542833 Aug 21 13:02 main.json
+-rwxrwxrwx 1 reversallava63 reversallava63  72946 Aug 21 13:02 test.json
+-rwxrwxrwx 1 reversallava63 reversallava63  72829 Aug 21 13:02 test_old.json
+
+./data/scripts:
+total 76
+drwxrwxrwx 1 reversallava63 reversallava63  4096 Aug 23 12:32 .
+drwxrwxrwx 1 reversallava63 reversallava63  4096 Aug 23 12:32 ..
+drwxrwxrwx 1 reversallava63 reversallava63  4096 Aug 23 12:32 __pycache__
+-rwxrwxrwx 1 reversallava63 reversallava63  3949 Aug 21 13:02 anim_loader.py
+-rwxrwxrwx 1 reversallava63 reversallava63   238 Aug 21 13:02 clip.py
+-rwxrwxrwx 1 reversallava63 reversallava63  1485 Aug 21 13:02 config.py
+-rwxrwxrwx 1 reversallava63 reversallava63  1642 Aug 21 13:02 core_funcs.py
+-rwxrwxrwx 1 reversallava63 reversallava63  7763 Aug 21 13:02 entity.py
+-rwxrwxrwx 1 reversallava63 reversallava63  2261 Aug 21 13:02 foliage.py
+-rwxrwxrwx 1 reversallava63 reversallava63  3673 Aug 21 13:02 gl_stuff.py
+-rwxrwxrwx 1 reversallava63 reversallava63 16580 Aug 21 13:02 grass.py
+-rwxrwxrwx 1 reversallava63 reversallava63  3572 Aug 21 13:02 particles.py
+-rwxrwxrwx 1 reversallava63 reversallava63  1559 Aug 21 13:02 quads.py
+-rwxrwxrwx 1 reversallava63 reversallava63  2186 Aug 21 13:02 spritesheet_loader.py
+-rwxrwxrwx 1 reversallava63 reversallava63  3068 Aug 21 13:02 text.py
+-rwxrwxrwx 1 reversallava63 reversallava63 10371 Aug 21 13:02 tile_map.py
+
+./data/scripts/__pycache__:
+total 108
+drwxrwxrwx 1 reversallava63 reversallava63  4096 Aug 23 12:32 .
+drwxrwxrwx 1 reversallava63 reversallava63  4096 Aug 23 12:32 ..
+-rwxrwxrwx 1 reversallava63 reversallava63  4663 Aug 21 13:02 anim_loader.cpython-38.pyc
+-rwxrwxrwx 1 reversallava63 reversallava63   421 Aug 21 13:02 clip.cpython-38.pyc
+-rwxrwxrwx 1 reversallava63 reversallava63   881 Aug 21 13:02 config.cpython-38.pyc
+-rwxrwxrwx 1 reversallava63 reversallava63  2113 Aug 21 13:02 core_funcs.cpython-37.pyc
+-rwxrwxrwx 1 reversallava63 reversallava63  2131 Aug 21 13:02 core_funcs.cpython-38.pyc
+-rwxrwxrwx 1 reversallava63 reversallava63  6750 Aug 21 13:02 entity.cpython-38.pyc
+-rwxrwxrwx 1 reversallava63 reversallava63  2267 Aug 21 13:02 foliage.cpython-38.pyc
+-rwxrwxrwx 1 reversallava63 reversallava63  3247 Aug 21 13:02 gl_stuff.cpython-37.pyc
+-rwxrwxrwx 1 reversallava63 reversallava63  3284 Aug 21 13:02 gl_stuff.cpython-38.pyc
+-rwxrwxrwx 1 reversallava63 reversallava63 12297 Aug 21 13:02 grass.cpython-38.pyc
+-rwxrwxrwx 1 reversallava63 reversallava63  3282 Aug 21 13:02 particles.cpython-38.pyc
+-rwxrwxrwx 1 reversallava63 reversallava63  1692 Aug 21 13:02 quads.cpython-37.pyc
+-rwxrwxrwx 1 reversallava63 reversallava63  1713 Aug 21 13:02 quads.cpython-38.pyc
+-rwxrwxrwx 1 reversallava63 reversallava63  1723 Aug 21 13:02 spritesheet_loader.cpython-37.pyc
+-rwxrwxrwx 1 reversallava63 reversallava63  1709 Aug 21 13:02 spritesheet_loader.cpython-38.pyc
+-rwxrwxrwx 1 reversallava63 reversallava63  2660 Aug 21 13:02 text.cpython-38.pyc
+-rwxrwxrwx 1 reversallava63 reversallava63  9155 Aug 21 13:02 tile_map.cpython-37.pyc
+-rwxrwxrwx 1 reversallava63 reversallava63  9136 Aug 21 13:02 tile_map.cpython-38.pyc
+
+./data/sfx:
+total 1036
+drwxrwxrwx 1 reversallava63 reversallava63   4096 Aug 23 12:32 .
+drwxrwxrwx 1 reversallava63 reversallava63   4096 Aug 23 12:32 ..
+-rwxrwxrwx 1 reversallava63 reversallava63  75264 Aug 21 13:02 death.wav
+-rwxrwxrwx 1 reversallava63 reversallava63  84984 Aug 21 13:02 grass_0.wav
+-rwxrwxrwx 1 reversallava63 reversallava63  91248 Aug 21 13:02 grass_1.wav
+-rwxrwxrwx 1 reversallava63 reversallava63 196616 Aug 21 13:02 grass_2.wav
+-rwxrwxrwx 1 reversallava63 reversallava63 121012 Aug 21 13:02 grass_3.wav
+-rwxrwxrwx 1 reversallava63 reversallava63  86140 Aug 21 13:02 grass_4.wav
+-rwxrwxrwx 1 reversallava63 reversallava63  22750 Aug 21 13:02 jump.wav
+-rwxrwxrwx 1 reversallava63 reversallava63  45222 Aug 21 13:02 jump_boost.wav
+-rwxrwxrwx 1 reversallava63 reversallava63  67628 Aug 21 13:02 land.wav
+-rwxrwxrwx 1 reversallava63 reversallava63  65580 Aug 21 13:02 paint_0.wav
+-rwxrwxrwx 1 reversallava63 reversallava63  66080 Aug 21 13:02 paint_1.wav
+-rwxrwxrwx 1 reversallava63 reversallava63  51940 Aug 21 13:02 slide.wav
+-rwxrwxrwx 1 reversallava63 reversallava63  51118 Aug 21 13:02 slide_2.wav
+
+./data/shaders:
+total 8
+drwxrwxrwx 1 reversallava63 reversallava63 4096 Aug 23 12:32 .
+drwxrwxrwx 1 reversallava63 reversallava63 4096 Aug 23 12:32 ..
+-rwxrwxrwx 1 reversallava63 reversallava63 5878 Aug 21 13:02 main_display.frag
+-rwxrwxrwx 1 reversallava63 reversallava63  148 Aug 21 13:02 texture.frag
+-rwxrwxrwx 1 reversallava63 reversallava63  153 Aug 21 13:02 texture.vert
