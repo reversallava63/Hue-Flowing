@@ -55,8 +55,8 @@ To build this sample app, you will need to install the [embedded ARM toolchain](
 ```shell
 sudo apt update
 sudo apt install gcc-arm-none-eabi binutils-arm-none-eabi nodejs npm #Or equivalent on your OS
-git clone https://github.com/yourusername/hue-flowing-numworks.git
-cd hue-flowing-numworks
+git clone https://github.com/reversallava63/hue-flowing.git
+cd hue-flowing
 make clean && make build
 ```
 
